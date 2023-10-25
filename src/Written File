@@ -1,2 +1,16 @@
 Blackjack Requirements:
 
+8 decks 
+1 player
+double
+split
+
+Potential Classes:
+Cards class
+Decks class
+Dealer class
+payment class
+user decision class
+rules class
+
+
